@@ -2,6 +2,7 @@
 
 ## Engineering Tech Spec – Phase I
 
+### Description
 The project is to implement a checkout with Mpesa service to support B2C (Business-to- Customer) and C2B (Customer-to-Business) models. for that, the goals are, Enable customers to make payments using Mpesa API in the B2C model, Enable businesses to make payments to customers using Mpesa API in the B2C model, and Allow businesses to receive payments using Mpesa API in the C2B model.
 
 To achieve all the defined goals, we need to divide the problem into small problems, and we will increase the complexity.
@@ -45,4 +46,3 @@ The main tools to implement will be:
 - Django-ninja or Golang
 - Digital Ocean
 - AWS
->>>>>>> Stashed changes
