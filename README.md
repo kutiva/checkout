@@ -1,6 +1,3 @@
-<<<<<<< Updated upstream
-# This is readme for this project
-=======
 # This is readme for this project
 
 ## Engineering Tech Spec – Phase I
