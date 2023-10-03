@@ -28,8 +28,8 @@ The following methods will be used to validate that the solution is working corr
 
 ### Risks
 The following risks might be introduced by this set of changes:
-- Compatibility issues with Mpesa (some major update on Mpesa side)
-- Security vulnerabilities related to handling financial transactions
+- Compatibility issues with Mpesa (some major update on Mpesa side);
+- Security vulnerabilities related to handling financial transactions.
 
 Are there any backwards-incompatible changes?
 Care should be taken to ensure that the changes are compatible with existing systems and do not break any existing functionality.
