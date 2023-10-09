@@ -1,8 +1,4 @@
-# This is readme for this project
-
-## This is second point add nore stuff
-=======
-## Engineering Tech Spec – Phase I
+## Engineering Tech Spec – Phase I - Sérgio Dulobu
 
 ### Description
 The project is to implement a checkout with Mpesa service to support B2C (Business-to- Customer) and C2B (Customer-to-Business) models. for that, the goals are, Enable customers to make payments using Mpesa API in the B2C model, Enable businesses to make payments to customers using Mpesa API in the B2C model, and Allow businesses to receive payments using Mpesa API in the C2B model.
