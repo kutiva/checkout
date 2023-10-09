@@ -1,4 +1,4 @@
-# This is readme for this project
+# This is readme for this project - Djamal Santos
 
 ## Engineering Tech Spec – Phase I
 
